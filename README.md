@@ -2,20 +2,18 @@
 
 ###
 
-<h3 align="left">🟩Últimos Commits / Linguagens Utilizadas</h3>
+<h3 align="left">🟩Últimos Commits / Linguagens Utilizadas</h3><br>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=P4dr1n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P4dr1n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div><br>
 
-###
+---
 
-<h3 align="left">💻Tecnologias mais utilizadas:</h3>
-
-###
+<h3 align="left">💻Tecnologias mais utilizadas:</h3><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
